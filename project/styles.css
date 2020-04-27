@@ -1,0 +1,30 @@
+/* Universal Rules */
+html {
+    font-size: 1vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: midnightblue;
+    text-align: center;
+    background-color: turquoise;
+}
+/* Header */
+h1 {
+    font-size: 3rem;
+    padding: 10px;
+}
+/* Flex Box */
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;
+}
+.flex-item-3 {
+    width: 30%;
+}
+.flex-item-2 {
+    width: 45%;
+}
+/* Captions */
+h2 {
+    font-size: 1.5rem;
+}
